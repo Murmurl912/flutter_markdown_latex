@@ -51,6 +51,12 @@ where \(f(x)\) is the function to be expanded, \(a\) is the expansion point, \(f
 
 In particular, when \(a=0\), this expansion is called the Maclaurin series.
 
+This is a:  
+$$
+2^ 3
+$$
+
+
 """;
 
   @override
